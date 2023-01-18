@@ -1,8 +1,8 @@
 # Praktikum13
 
-Nama : Syifa Aurellia Rahma
+Nama : Frans Putra Sinaga
 
-NIM : 312210009
+NIM : 312210046
 
 Kelas : TI.22.A1
 
